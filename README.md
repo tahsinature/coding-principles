@@ -8,7 +8,7 @@ This repository is a reference for myself, and you may also use it as reference 
 - [OCP](/OCP) ✅
 - [LSP](/LSP) ✅
 - [ISP](/ISP) ✅
-- [DIP](/DIP)
+- [DIP](/DIP) ✅
 - [DRY](/DRY)
 - [KISS](/KISS)
 - [YAGNI](/YAGNI)
