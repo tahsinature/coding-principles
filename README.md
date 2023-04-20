@@ -4,9 +4,9 @@ This repository is a reference for myself, and you may also use it as reference 
 
 ### Generic
 
-- [SRP](/SRP)
-- [OCP](/OCP)
-- [LSP](/LSP)
+- [SRP](/SRP) ✅
+- [OCP](/OCP) ✅
+- [LSP](/LSP) ✅
 - [ISP](/ISP)
 - [DIP](/DIP)
 - [DRY](/DRY)
