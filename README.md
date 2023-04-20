@@ -10,5 +10,5 @@ This repository is a reference for myself, and you may also use it as reference 
 - [ISP](/ISP) ✅
 - [DIP](/DIP) ✅
 - [DRY](/DRY) ✅
-- [KISS](/KISS)
+- [KISS](/KISS) ✅
 - [YAGNI](/YAGNI)
