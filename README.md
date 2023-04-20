@@ -4,11 +4,13 @@ This repository is a reference for myself, and you may also use it as reference 
 
 ### Generic
 
-- [SRP](/SRP) ✅
-- [OCP](/OCP) ✅
-- [LSP](/LSP) ✅
-- [ISP](/ISP) ✅
-- [DIP](/DIP) ✅
-- [DRY](/DRY) ✅
-- [KISS](/KISS) ✅
+- [SRP](/SRP)
+- [OCP](/OCP)
+- [LSP](/LSP)
+- [ISP](/ISP)
+- [DIP](/DIP)
+- [DRY](/DRY)
+- [KISS](/KISS)
 - [YAGNI](/YAGNI)
+
+In addition to these principles, it's also important to follow the SOLID principles, which encompass many of the above principles and provide a comprehensive set of guidelines for writing maintainable and extensible software.
