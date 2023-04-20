@@ -7,7 +7,7 @@ This repository is a reference for myself, and you may also use it as reference 
 - [SRP](/SRP) ✅
 - [OCP](/OCP) ✅
 - [LSP](/LSP) ✅
-- [ISP](/ISP)
+- [ISP](/ISP) ✅
 - [DIP](/DIP)
 - [DRY](/DRY)
 - [KISS](/KISS)
