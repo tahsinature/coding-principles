@@ -9,6 +9,6 @@ This repository is a reference for myself, and you may also use it as reference 
 - [LSP](/LSP) ✅
 - [ISP](/ISP) ✅
 - [DIP](/DIP) ✅
-- [DRY](/DRY)
+- [DRY](/DRY) ✅
 - [KISS](/KISS)
 - [YAGNI](/YAGNI)
